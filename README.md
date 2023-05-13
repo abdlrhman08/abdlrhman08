@@ -1,8 +1,10 @@
 I’m Abdelrahman Hamada
 
-I’m interested in Software / Software side of Hardware and electronics (Embedded Systems). I love learning new technology and skills.
+I’m interested in Software / Software side of Hardware and electronics (Embedded Systems).
 
 I’m looking to collaborate on anything that brings value to the world
+
+If you enjoyed reading any code I wrote with my two brain cells, I would appreciate it if you could leave a star on the repo. I simply enjoy writing code that makes me question what I wrote the next morning. ¯_(ツ)_/¯
 
 Reach me on abdelrahmanhamada65@gmail.com
 
