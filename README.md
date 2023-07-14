@@ -1,6 +1,6 @@
 I’m Abdelrahman Hamada
 
-I’m interested in Software / Software side of Hardware and electronics (Embedded Systems).
+I’m interested in Software / Finance, and I believe this passion can take me far.
 
 I’m looking to collaborate on anything that brings value to the world
 
