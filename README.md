@@ -8,7 +8,6 @@ If you enjoyed reading any code I wrote with my two brain cells, I would appreci
 
 Reach me on abdelrahmanhamada65@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdlrhman08&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 abdlrhman08/abdlrhman08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
