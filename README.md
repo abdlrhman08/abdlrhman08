@@ -1,4 +1,4 @@
- I write with my two brain cells, I would appreciate it if you could leave a star on a repo. I simply enjoy writing code that makes me question what I wrote the next morning. ¯_(ツ)_/¯
+ I write code with my two brain cells. I simply enjoy writing code that makes me question what I wrote the next morning. ¯_(ツ)_/¯
 
 Reach me on abdelrahmanhamada65@gmail.com
 
